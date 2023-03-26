@@ -1,4 +1,4 @@
-# socailsAPI
+# socialsAPI
 
 ## Description 
 The purpose of this challenge is to use MongoDB database so that the website can handle a  large amount of data, Express.js is used for the routing, Mongoose ODM.
